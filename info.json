@@ -1,0 +1,14 @@
+{
+  "name": "StepDriveX",
+  "symbol": "SDX",
+  "decimals": 18,
+  "description": "StepDriveX (SDX), kullanıcıları sürdürülebilir ulaşım yöntemlerini tercih etmeye teşvik eden blockchain tabanlı bir ödül tokenidir.",
+  "website": "https://stepdrivex.io",
+  "social": {
+    "twitter": "https://twitter.com/StepDriveX",
+    "telegram": "https://t.me/StepDriveX"
+  },
+  "explorer": "https://bscscan.com/token/0x5e6a30558f0A5b4597fEe3360b14eA20cAA242Ce",
+  "status": "active",
+  "logo": "https://raw.githubusercontent.com/StepDriveX/stepdrivex-varliklar/main/logo.png"
+}
